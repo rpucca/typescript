@@ -1,2 +1,2 @@
 # typescript
-programas typescript curso alura
+programas typescript curso alura.
