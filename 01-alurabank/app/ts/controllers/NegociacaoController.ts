@@ -16,5 +16,6 @@ class NegociacaoController {
                                           this._inputValor.value);
 
         console.log(negociacao);
+        //teste1
     }
 }
